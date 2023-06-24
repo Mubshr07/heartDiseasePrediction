@@ -10,6 +10,7 @@ file.txt
 # Ignore all files and directories inside a specific directory
 /catboost_info/*
 /DatasetResults_CardiacPrediction/*
+/DatasetResults_CardiacPrediction (Best Results SMOTE)/*
 /DatasetResults_PureML_ALL_StateLog_CleveLand_Hungary/*
 /DatasetResults_PureML_CardiacPrediction/*
 /DatasetResults_PureML_SateLog/*
